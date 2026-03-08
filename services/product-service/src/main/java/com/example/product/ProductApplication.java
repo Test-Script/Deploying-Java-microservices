@@ -10,7 +10,7 @@ import java.util.Map;
 
 @SpringBootApplication
 @RestController
-public class OrderApplication {
+public class ProductApplication {
 
     @Value("${APP_VERSION:unknown}")
     private String version;
